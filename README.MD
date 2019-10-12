@@ -19,4 +19,4 @@ O site foi desenvolvido tanto para computador quanto para mobile.
 
 ## 3. Acesse o site
 
-Para acessar o site bast clicar no link: [www.BiotaBrasil.com.br](https://biotabrasil.000webhostapp.com/?dir=site-master/)
+Para acessar o site basta clicar no link: [www.BiotaBrasil.com.br](https://biotabrasil.000webhostapp.com/?dir=site-master/)
