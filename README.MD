@@ -8,7 +8,6 @@
 
 Site front-end desenvolvido para promover a startup Biota Brasil. No qual tem como objetivo promover de forma didática as diversas informações da Biodiversidade Brasileira.
 
-![](https://biotabrasil.000webhostapp.com/assets/images/pp.jpeg)
 
 ## 2. Funcionalidade
 
